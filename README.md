@@ -129,18 +129,16 @@ npm start
 
 ## Screenshots
 
-Add your project screenshots in the following directory structure:
-
 ```
-/screenshots/
-├── dashboard.png
-├── add-transaction.png
-├── login.png
-├── transactions-list.png
-└── reports.png
+/spend smart ss/
+├── ss1.png
+├── ss2.png
+├── ss3.png
+├── ss4.png
+└── ss5.png
+└── ss6.png
+└── ss7.png
 ```
-
-Screenshots help users understand the app interface and functionality at a glance.
 
 ---
 
